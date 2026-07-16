@@ -6421,6 +6421,13 @@
       "icon": "https://i.postimg.cc/yNrhYcTg/audiate-icon.png",
       "images": []
     },
+    "audio-arcade": {
+      "icon": "https://i.postimg.cc/2SqDRpNH/Audio-Arcade.png",
+      "images": [
+        "https://i.postimg.cc/N0p71n5q/Capture-d-ecran-2026-06-06-134643.png",
+        "https://i.postimg.cc/s2Nmk8y5/Capture-d-ecran-2026-07-15-181110.png"
+      ]
+    },
     "camunda-bpm-tomcat": {
       "icon": "",
       "images": []
